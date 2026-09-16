@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant Menu & Table Ordering",
+  "description": "A live restaurant menu management and real-time table ordering system where owners can upload and manage menus, and customers can order by table number and track their order status in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
